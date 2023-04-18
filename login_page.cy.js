@@ -13,7 +13,7 @@
       cy.screenshot()
       
     })
-  }) */
+  }) 
 
 
   describe('Username with empty password login attempt', ()=> {
@@ -28,7 +28,7 @@
 
 
     })
-  })
+  })*/
 
   describe('Empty username with password login attempt', ()=> {
     it('scenario 3', () => {
