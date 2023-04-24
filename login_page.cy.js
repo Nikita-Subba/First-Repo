@@ -3,7 +3,7 @@
 
 /// <reference types="cypress"/>
 
-/* describe('Empty Login Field Login Attempt', () => {
+ describe('Empty Login Field Login Attempt', () => {
     it('Scenario 1', () => {
       cy.visit('https://wisemdv2.wiseyak.com/login')
       cy.get('.MuiButton-root').click()
@@ -28,7 +28,7 @@
 
 
     })
-  })*/
+  })
 
   describe('Empty username with password login attempt', ()=> {
     it('scenario 3', () => {
